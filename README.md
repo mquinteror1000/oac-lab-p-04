@@ -48,7 +48,9 @@ Confirmamos el archivo a generar
 
 #### Compilar el proyecto
 
-#### 
+![](images/2026-10-24-22-32-22-image.png)
+
+
 
 Y luego  se compila
 
